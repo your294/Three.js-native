@@ -1,0 +1,22 @@
+{
+  "name": "native-three",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "lil-gui": "^0.19.2",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "@gltf-transform/cli": "^4.0.1",
+    "optional": "^0.1.4",
+    "sharp": "^0.33.4",
+    "stats.js": "^0.17.0",
+    "three": "^0.165.0"
+  }
+}
